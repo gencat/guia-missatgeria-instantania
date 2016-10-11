@@ -1,19 +1,19 @@
 # Bot  Telegram
 
-## Descripció del servei
+## DescripciÃ³ del servei
 
-El servei [@Generalitat_Bot](https://telegram.me/Generalitat_Bot) ofereix a la ciutadania informació sobre equipaments. L'usuari pot localitzar el centre sanitari, la farmàcia o la comissaria de policia més propera segons la seva ubicació actual o la que indiqui expressament, a partir d'un automatisme de consulta a la base de dades d'equipaments oficials de la Generalitat de Catalunya.
+El servei [@Generalitat_Bot](https://telegram.me/Generalitat_Bot) ofereix a la ciutadania informaciÃ³ sobre equipaments. L'usuari pot localitzar el centre sanitari, la farmÃ cia o la comissaria de policia mÃ©s propera segons la seva ubicaciÃ³ actual o la que indiqui expressament, a partir d'un automatisme de consulta a la base de dades d'equipaments oficials de la Generalitat de Catalunya.
 
 ## Com funciona el bot de gencat
 
-Per usar aquest servei, podeu accedir-hi a través de [@Generalitat_Bot](https://telegram.me/Generalitat_Bot) i fer els passos següents.
+Per usar aquest servei, podeu accedir-hi a travÃ©s de [@Generalitat_Bot](https://telegram.me/Generalitat_Bot) i fer els passos segÃ¼ents.
 
-1. Clicar el botó '/start' o escriure-ho a la caixeta de text.
-2. Seleccionar el tipus equipament entre les tres opcions: comissaries de policia, farmàcies i, en el cas dels centres sanitaris, hospitals, centres d'atenció primària i els altres centres d'atenció primària fora de l'horari habitual.
-3. Geolocalitzar-vos (si no ho esteu, ho heu d'activar a la configuració del vostre telèfon). Podeu geolocalitzar-vos amb el botó 'Localització actual' o bé amb el símbol del clip (d'adjuntar fitxer) per als casos que interessi geolocalitzat-vos en un lloc diferent on ets.
-4. Seleccionar en quin radi de distància ho vols buscar (1km o 5km).
+1. Clicar el botÃ³ '/start' o escriure-ho a la caixeta de text.
+2. Seleccionar el tipus equipament entre les tres opcions: comissaries de policia, farmÃ cies i, en el cas dels centres sanitaris, hospitals, centres d'atenciÃ³ primÃ ria i els altres centres d'atenciÃ³ primÃ ria fora de l'horari habitual.
+3. Geolocalitzar-vos (si no ho esteu, ho heu d'activar a la configuraciÃ³ del vostre telÃ¨fon). Podeu geolocalitzar-vos amb el botÃ³ 'LocalitzaciÃ³ actual' o bÃ© amb el sÃ­mbol del clip (d'adjuntar fitxer) per als casos que interessi geolocalitzat-vos en un lloc diferent on ets.
+4. Seleccionar en quin radi de distÃ ncia ho vols buscar (1km o 5km).
 
-![Bot Telegram]([/img/bot_1.jpg)
-![Bot Telegram]([/img/bot_2.jpg)
+![Bot Telegram](/img/bot_1.jpg)
+![Bot Telegram](/img/bot_2.jpg)
 
-El bot ofereix, si n'hi ha, resultats. Els resultats s'ordenen per proximitat i contenen nom de l'equipament, adreça, població i telèfon. També es pot veure el mapa on es troba l'equipament. En cas que la consulta de resultats no sigui satisfactòria, adreça l'usuari al [canal @gencat012 de Telegram](http://telegram.me/gencat012) perquè pugui fer la consulta directament a un operador del 012.
+El bot ofereix, si n'hi ha, resultats. Els resultats s'ordenen per proximitat i contenen nom de l'equipament, adreÃ§a, poblaciÃ³ i telÃ¨fon. TambÃ© es pot veure el mapa on es troba l'equipament. En cas que la consulta de resultats no sigui satisfactÃ²ria, adreÃ§a l'usuari al [canal @gencat012 de Telegram](http://telegram.me/gencat012) perquÃ¨ pugui fer la consulta directament a un operador del 012.

@@ -1,71 +1,75 @@
 # Canal Telegram
 
-Els canals de Telegram permeten trametre missatges a un nombre il·limitat de subscriptors. Hi ha canals públics i privats. Els públics tenen un àlies, és a dir, un nom que permet a qualsevol persona buscar-los al cercador i unir-s'hi sense haver de conèixer cap número de telèfon. El canal de gencat és un canal públic. Els ciutadans que s'hi vulguin subscriure poden fer-ho a través de l'àlies del canal (en aquest cas @gencat) o bé a través d'una adreça web, per exemple [http://telegram.me/gencat](http://telegram.me/gencat)
+Els canals de Telegram permeten trametre missatges a un nombre ilÂ·limitat de subscriptors. Hi ha canals pÃºblics i privats. Els pÃºblics tenen un Ã lies, Ã©s a dir, un nom que permet a qualsevol persona buscar-los al cercador i unir-s'hi sense haver de conÃ¨ixer cap nÃºmero de telÃ¨fon. El canal de gencat Ã©s un canal pÃºblic. Els ciutadans que s'hi vulguin subscriure poden fer-ho a travÃ©s de l'Ã lies del canal (en aquest cas @gencat) o bÃ© a travÃ©s d'una adreÃ§a web, per exemple [http://telegram.me/gencat](http://telegram.me/gencat)
 
-## Gestió del canal
+## GestiÃ³ del canal 
+<a id=gestio></a>
 
-El creador d'un canal té la capacitat de difondre els missatges, que també pot editar i eliminar (les modificacions s'aplicaran a tots els usuaris), així com de gestionar-ne els membres: pot afegir els primers 200, expulsar-los i també afegir o eliminar els administradors que poden gestionar-lo. En relació amb la configuració del canal, també se'n pot editar l'àlies, la imatge del perfil i l'enllaç. Els administradors tenen drets limitats: poden difondre missatges, treure els seus propis missatges o treure qualsevol membre.
+El creador d'un canal tÃ© la capacitat de difondre els missatges, que tambÃ© pot editar i eliminar (les modificacions s'aplicaran a tots els usuaris), aixÃ­ com de gestionar-ne els membres: pot afegir els primers 200, expulsar-los i tambÃ© afegir o eliminar els administradors que poden gestionar-lo. En relaciÃ³ amb la configuraciÃ³ del canal, tambÃ© se'n pot editar l'Ã lies, la imatge del perfil i l'enllaÃ§. Els administradors tenen drets limitats: poden difondre missatges, treure els seus propis missatges o treure qualsevol membre.
 
-Els missatges apareixen signats amb el nom que té el propi canal, no amb el de l'administrador. De fet, hi pot haver diversos administradors però la signatura sempre és la mateixa. Quan escrius en un canal, el missatge és publicat amb el nom del canal i la foto del mateix, no amb les teves dades.
+Els missatges apareixen signats amb el nom que tÃ© el propi canal, no amb el de l'administrador. De fet, hi pot haver diversos administradors perÃ² la signatura sempre Ã©s la mateixa. Quan escrius en un canal, el missatge Ã©s publicat amb el nom del canal i la foto del mateix, no amb les teves dades.
 
-Es poden editar i fer correccions dels continguts durant 24h encara que ja s'hagin enviat i fins i tot es poden esborrar missatges si convé millorar-los.
+Es poden editar i fer correccions dels continguts durant 24h encara que ja s'hagin enviat i fins i tot es poden esborrar missatges si convÃ© millorar-los.
 
 ## Quin tipus de continguts s'ofereixen?
+<a id=continguts></a>
 
-Al canal gencat de Telegram es publica informació de servei generalista, és a dir, d'interès ciutadà i multidisciplinari. S'escullen continguts que provenen de tots els departaments de la Generalitat tenint en compte, que siguin d'alt valor per a la ciutadania. Alguns exemples de continguts que es publiquen són: posada en marxa de nous serveis i equipaments, beques i ajuts, notícies destacades del web gencat, concursos, comunicació de terminis o dates clau etc.
-També esdevé una eina per fer-se ressò de campanyes de prevenció i conscienciació que posa en marxa la Generalitat en matèries com la salut, el medi ambient, el trànsit, o les tecnologies, entre d'altres.
+Al canal gencat de Telegram es publica informaciÃ³ de servei generalista, Ã©s a dir, d'interÃ¨s ciutadÃ  i multidisciplinari. S'escullen continguts que provenen de tots els departaments de la Generalitat tenint en compte, que siguin d'alt valor per a la ciutadania. Alguns exemples de continguts que es publiquen sÃ³n: posada en marxa de nous serveis i equipaments, beques i ajuts, notÃ­cies destacades del web gencat, concursos, comunicaciÃ³ de terminis o dates clau etc.
+TambÃ© esdevÃ© una eina per fer-se ressÃ² de campanyes de prevenciÃ³ i conscienciaciÃ³ que posa en marxa la Generalitat en matÃ¨ries com la salut, el medi ambient, el trÃ nsit, o les tecnologies, entre d'altres.
 
 ![Exemple canal Telegram](/img/guia_telegram_prevencio1_pell.png)
 ![Exemple canal Telegram](/img/guia_telegram_prevencio2_transit.png)
 
-Un altre dels eixos en l’editorialització de continguts del canal és facilitar la participació activa de la ciutadania en la millora de les polítiques i serveis públics. Així, la presa de decisions que afecten la gestió pública es veu enriquida per la visió dels ciutadans mateixos, tant a títol individual com a títol col•lectiu.
+Un altre dels eixos en lâ€™editorialitzaciÃ³ de continguts del canal Ã©s facilitar la participaciÃ³ activa de la ciutadania en la millora de les polÃ­tiques i serveis pÃºblics. AixÃ­, la presa de decisions que afecten la gestiÃ³ pÃºblica es veu enriquida per la visiÃ³ dels ciutadans mateixos, tant a tÃ­tol individual com a tÃ­tol colâ€¢lectiu.
 
 ![Exemple canal Telegram](/img/Guia_telegram_participacio.png)
 
-En casos puntuals en què l'interès per al conjunt de la ciutadania estigui justificat, s'utilitza com a canal de suport a les accions comunicatives que s'emeten des d'altres perfils i canals corporatius de la Generalitat de Catalunya, per exemple, en el cas dels incendis forestals.
+En casos puntuals en quÃ¨ l'interÃ¨s per al conjunt de la ciutadania estigui justificat, s'utilitza com a canal de suport a les accions comunicatives que s'emeten des d'altres perfils i canals corporatius de la Generalitat de Catalunya, per exemple, en el cas dels incendis forestals.
 
 ![Exemple canal Telegram](/img/guia_telegram_incendis.png)
 
 D'altra banda, el divendres s'envia un missatge amb les propostes del cap de setmana a partir dels continguts elaborats per al web gencat [http://gen.cat/cap-de-setmana/](http://gen.cat/cap-de-setmana/)
 
-## Editorialització de continguts
+## EditorialitzaciÃ³ de continguts
+<a id=editorialitzacio></a>
 
-Els missatges que s'emeten des del canal es publiquen habitualment en català tot i que ocasionalment els continguts de suport (vídeos, imatges) es poden publicar en un altre idioma.
-Els missatges han de ser senzills, curts i visuals, adaptats al context d'ús. Convé evitar l'ús de fórmules pròpies d'un registre molt col·loquial, sense emfasitzar, ni escriure amb majúscules.  És clau que el missatge sigui clar i atractiu, fent ús de recursos lingüístics, acompanyant-los d'imatges i, aprofitant la galeria que ofereix Telegram, incorporant emoticones que afegeixen un to desenfadat que connecta amb la part més emocional. Actuen com a complement del text però no el substitueixen.
-Es recomana incloure enllaços si aquests aporten valor afegit al missatge. S'han d'escurçar mitjançant l'aplicació bit.ly, incorporada a Tweetdeck, que permet comptabilitzar la mètrica del perfil de manera fàcil i àgil. Es prioritzarà que els enllaços apuntin a webs en format responsiu.
+Els missatges que s'emeten des del canal es publiquen habitualment en catalÃ  tot i que ocasionalment els continguts de suport (vÃ­deos, imatges) es poden publicar en un altre idioma.
+Els missatges han de ser senzills, curts i visuals, adaptats al context d'Ãºs. ConvÃ© evitar l'Ãºs de fÃ³rmules prÃ²pies d'un registre molt colÂ·loquial, sense emfasitzar, ni escriure amb majÃºscules.  Ã‰s clau que el missatge sigui clar i atractiu, fent Ãºs de recursos lingÃ¼Ã­stics, acompanyant-los d'imatges i, aprofitant la galeria que ofereix Telegram, incorporant emoticones que afegeixen un to desenfadat que connecta amb la part mÃ©s emocional. Actuen com a complement del text perÃ² no el substitueixen.
+Es recomana incloure enllaÃ§os si aquests aporten valor afegit al missatge. S'han d'escurÃ§ar mitjanÃ§ant l'aplicaciÃ³ bit.ly, incorporada a Tweetdeck, que permet comptabilitzar la mÃ¨trica del perfil de manera fÃ cil i Ã gil. Es prioritzarÃ  que els enllaÃ§os apuntin a webs en format responsiu.
 
-Telegram permet adjuntar als missatges fotografies, vídeos o qualsevol tipus d'arxiu de fins a 1,5 GB. Per adjuntar-los, només cal seleccionar la icona del clip i publicar l'arxiu corresponent.
+Telegram permet adjuntar als missatges fotografies, vÃ­deos o qualsevol tipus d'arxiu de fins a 1,5 GB. Per adjuntar-los, nomÃ©s cal seleccionar la icona del clip i publicar l'arxiu corresponent.
 Les imatges seleccionades no poden ser de:
 
 - Menors sense el consentiment dels seus pares o tutors
 - Contingut ofensiu
 - Poca qualitat
 - Moviment continuat _(gifs_ animats)
-- Format flash. Aquest format no es veu en els dispositius mòbils
+- Format flash. Aquest format no es veu en els dispositius mÃ²bils
 
-El llançament de missatges es planifica tenint en compte l'actualitat i sempre procurant en compte que s'hi ofereixin continguts de servei. Es treballa amb una graella a una setmana vista. En aquesta planificació hi participen les persones que gestionen el canal.
-Les fonts d'informació per a l'elaboració dels missatges provenen de l'entorn corporatiu gencat (notícies, notes de premsa, butlletins, blogs, webs especials) però també de l'escolta activa de les xarxes socials. D'altra banda, internament també es fa periòdicament difusió del canal entre els diversos departaments i unitats perquè puguin suggerir continguts de publicació, que es recullen a la bústia [redacciogencat@gencat.cat](mailto:redacciogencat@gencat.cat).  Les persones responsables de la gestió del canal són les encarregades de validar i publicar els continguts si ho troben adient.
+El llanÃ§ament de missatges es planifica tenint en compte l'actualitat i sempre procurant en compte que s'hi ofereixin continguts de servei. Es treballa amb una graella a una setmana vista. En aquesta planificaciÃ³ hi participen les persones que gestionen el canal.
+Les fonts d'informaciÃ³ per a l'elaboraciÃ³ dels missatges provenen de l'entorn corporatiu gencat (notÃ­cies, notes de premsa, butlletins, blogs, webs especials) perÃ² tambÃ© de l'escolta activa de les xarxes socials. D'altra banda, internament tambÃ© es fa periÃ²dicament difusiÃ³ del canal entre els diversos departaments i unitats perquÃ¨ puguin suggerir continguts de publicaciÃ³, que es recullen a la bÃºstia [redacciogencat@gencat.cat](mailto:redacciogencat@gencat.cat).  Les persones responsables de la gestiÃ³ del canal sÃ³n les encarregades de validar i publicar els continguts si ho troben adient.
 
-També es treballa amb un arxiu de continguts atemporals, que es revisa setmanalment, per publicar quan el ritme de l'actualitat baixa.
+TambÃ© es treballa amb un arxiu de continguts atemporals, que es revisa setmanalment, per publicar quan el ritme de l'actualitat baixa.
 
-## Periodicitat de publicació
+## Periodicitat de publicaciÃ³
+<a id=periodicitat></a>
 
-Cada dia s'emet un sol missatge, normalment al voltant de les nou del matí. Circumstàncies lligades a l'actualitat o l'oportunitat provoquen que se'n puguin enviar algun altre en diferents franges horàries. Per exemple, les propostes del cap de setmana que s'envien el divendres com a segon missatge, en un nivell jeràrquic inferior que la informació més lligada a l'actualitat que es pugui enviar a primera hora del matí.
-La sobresaturació de missatge pot provocar que els subscriptors perdin interès en els missatges. Per a una presència òptima hi ha d'haver activitat de manera continuada sense fer-ne un ús abusiu. Evidentment, en casos d'emergències, està justificat publicar missatges en intervals temporals més ajustats.
+Cada dia s'emet un sol missatge, normalment al voltant de les nou del matÃ­. CircumstÃ ncies lligades a l'actualitat o l'oportunitat provoquen que se'n puguin enviar algun altre en diferents franges horÃ ries. Per exemple, les propostes del cap de setmana que s'envien el divendres com a segon missatge, en un nivell jerÃ rquic inferior que la informaciÃ³ mÃ©s lligada a l'actualitat que es pugui enviar a primera hora del matÃ­.
+La sobresaturaciÃ³ de missatge pot provocar que els subscriptors perdin interÃ¨s en els missatges. Per a una presÃ¨ncia Ã²ptima hi ha d'haver activitat de manera continuada sense fer-ne un Ãºs abusiu. Evidentment, en casos d'emergÃ¨ncies, estÃ  justificat publicar missatges en intervals temporals mÃ©s ajustats.
 
 ## Tipologia de missatges
+<a id=missatges></a>
 
-
-1. Estil peu de foto. Té un límit de caràcters. Si el peu només conté text està limitat a 200 caràcters. Cal adjuntar la imatge amb el botó 'Photo'. Si es volen posar icones, s'ha de copiar el text amb les icones inserides prèviament. Els enllaços es poden clicar, però no es mostra la previsualització de la imatge del web.
+1. Estil peu de foto. TÃ© un lÃ­mit de carÃ cters. Si el peu nomÃ©s contÃ© text estÃ  limitat a 200 carÃ cters. Cal adjuntar la imatge amb el botÃ³ 'Photo'. Si es volen posar icones, s'ha de copiar el text amb les icones inserides prÃ¨viament. Els enllaÃ§os es poden clicar, perÃ² no es mostra la previsualitzaciÃ³ de la imatge del web.
 ![Exemple canal Telegram](/img/guia_telegram_tipus_missatges1.png)
 
-2. Estil text, que pot contenir diversos enllaços. No té límit de caràcters. L'enllaç principal, de referència, cal que aparegui el primer perquè es mostri la previsualització de la imatge del web a sota del bloc del text.
+2. Estil text, que pot contenir diversos enllaÃ§os. No tÃ© lÃ­mit de carÃ cters. L'enllaÃ§ principal, de referÃ¨ncia, cal que aparegui el primer perquÃ¨ es mostri la previsualitzaciÃ³ de la imatge del web a sota del bloc del text.
 ![Exemple canal Telegram](/img/guia_telegram_tipus_missatges_2.png)
 
-Els altres enllaços es podran clicar, però no se'n visualitzaran les imatges. Si es fan salts de línia, els enllaços inclouran la visualització a sobre del bloc de text. També s'hi poden afegir les icones.
+Els altres enllaÃ§os es podran clicar, perÃ² no se'n visualitzaran les imatges. Si es fan salts de lÃ­nia, els enllaÃ§os inclouran la visualitzaciÃ³ a sobre del bloc de text. TambÃ© s'hi poden afegir les icones.
 
-Aquest recurs es pot utilitzar quan s'envien missatges, per exemple, sobre tràmits, en què la imatge és secundària.
+Aquest recurs es pot utilitzar quan s'envien missatges, per exemple, sobre trÃ mits, en quÃ¨ la imatge Ã©s secundÃ ria.
 
-3. Estil imatge o arxiu (d'àudio o vídeo). Pot acompanyar a un missatge d'estil text. Cal adjuntar la imatge o l'arxiu amb el botó 'File'. Si està justificat es pot invertir l'ordre i enviar primer la imatge.
+3. Estil imatge o arxiu (d'Ã udio o vÃ­deo). Pot acompanyar a un missatge d'estil text. Cal adjuntar la imatge o l'arxiu amb el botÃ³ 'File'. Si estÃ  justificat es pot invertir l'ordre i enviar primer la imatge.
 ![Exemple canal Telegram](/img/guia_telegram_tipus_missatges_3.png)
 
