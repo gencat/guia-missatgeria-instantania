@@ -1,2 +1,1 @@
-# guia-telegram
-Guia de Telegram
+# Guia de missatgeria instantània de la Generalitat de Catalunya
