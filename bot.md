@@ -14,6 +14,5 @@ Per usar aquest servei, podeu accedir-hi a través de [@Generalitat_Bot](https:/
 4. Seleccionar en quin radi de distància ho vols buscar (1km o 5km).
 
 ![Bot Telegram](/img/bot_telegram.png)
-![Bot Telegram](/img/bot_telegram_2.png)
 
 El bot ofereix, si n'hi ha, resultats. Els resultats s'ordenen per proximitat i contenen nom de l'equipament, adreça, població i telèfon. També es pot veure el mapa on es troba l'equipament. En cas que la consulta de resultats no sigui satisfactòria, adreça l'usuari al [canal @gencat012 de Telegram](http://telegram.me/gencat012) perquè pugui fer la consulta directament a un operador del 012.
