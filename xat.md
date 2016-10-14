@@ -10,16 +10,16 @@ El criteri general d'atenció d'aquest servei de missatgeria és l'equivalent al
 
 El tipus de respostes que es faciliten són molt funcionals, amb respostes senzilles, curtes i ajustades a les peticions. Tot així, quan es consideri oportú, es pot afegir informació complementària. Aquest canal no necessita de fórmules de presentació ni de comiat.
 
-![Exemple d'una consulta sobre beques universitàries feta al servei 012 de Telegram](/img/xat.jpg)
+![Exemple d'una consulta sobre beques universitàries feta al servei 012 de Telegram](/img/atencio_ciutadana_012.png)
 
 L'atenció ciutadana a través d'aquests nous canals relacionals fomenten una interacció més omnicanal, directa i empàtica amb el ciutadà i des del punt de vista de l'organització, permeten entendre millor l'usuari, conèixer-ne les preferències i preveure'n les necessitats.
 
 **Operativa del servei**
 
 L'horari d'atenció del servei és de dilluns a divendres, no festius, de 8 a 22 hores. Dins d'aquest horari, el temps màxim de resposta són dues hores. Si per alguna circumstància no es pot donar resposta en aquest termini es comunica al més aviat possible el retard, en un termini màxim d'1 hora.
-Quan el ciutadà s'adreça per primer cop al servei rep de manera automàtica un enllaç amb les condicions legals i d'ús, que també es poden consultar al web de gencat [missatgeria.gencat.ca](http://web.gencat.cat/ca/contacte/menu/missatgeria)t.
+Quan el ciutadà s'adreça per primer cop al servei rep de manera automàtica un enllaç amb les condicions legals i d'ús, que també es poden consultar al web de gencat [missatgeria.gencat.cat](http://web.gencat.cat/ca/contacte/menu/missatgeria).
 
-	Com que és el primer cop que utilitza aquest servei, li facilitem l'enllaç a les condicions  d'ús: [_missatgeria.gencat.cat_](http://missatgeria.gencat.cat)
+	Com que és el primer cop que utilitza aquest servei, li facilitem l'enllaç a les condicions  d'ús: http://missatgeria.gencat.cat
 	Ben aviat respondrem la seva petició.
 	Per si és del seu interès: Aplicacions gratuïtes per al mòbil a: gencat.mobi
 
