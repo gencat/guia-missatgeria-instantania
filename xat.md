@@ -8,7 +8,7 @@ El servei de consultes destaca perquè és immediat, gratuït i molt senzill d'u
 
 El criteri general d'atenció d'aquest servei de missatgeria és l'equivalent al del telèfon 012, intentant que sigui igual de resolutiu, sempre que la informació sol·licitada es pugui donar per aquest canal, segons la complexitat de la resposta i la seguretat de les dades personals.
 
-El tipus de respostes que es faciliten són molt funcionals, amb respostes senzilles, curtes i ajustades a les peticions. Tot així, quan es consideri oportú, es pot afegir informació complementària. Aquest canal no necessita de fórmules de presentació ni de comiat.
+El tipus de respostes que es faciliten són molt funcionals, senzilles, curtes i ajustades a les peticions. Tot i així, quan es consideri oportú, es pot afegir informació complementària. Aquest canal no necessita fórmules de presentació ni de comiat.
 
 ![Exemple d'una consulta sobre beques universitàries feta al servei 012 de Telegram](/img/atencio_ciutadana_012.png)
 
@@ -25,5 +25,5 @@ Quan el ciutadà s'adreça per primer cop al servei rep de manera automàtica un
 
 Aquest missatge només s'envia la primera vegada, ja que no es tornarà a enviar si es reben missatges posteriors del mateix telèfon.
 
-Si es reben consultes a darrera hora i no es poden respondre abans que finalitzi al servei s'informa al ciutadà que se li respondrà quan es torni a obrir el servei. Quan la consulta es deriva a tècnics especialitzats també s'informa al ciutadà que el temps de resposta pot ser superior al normal, dins de les 24 hores laborables.
+Si es reben consultes a darrera hora i no es poden respondre abans que finalitzi el servei s'informa el ciutadà que se li respondrà quan es torni a obrir el servei. Quan la consulta es deriva a tècnics especialitzats també s'informa el ciutadà que el temps de resposta pot ser superior al normal, dins de les 24 hores laborables.
 Fora de l'horari d'atenció del servei hi ha un sistema de missatges automàtics per a la ciutadania que hi contacta.

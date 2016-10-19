@@ -1,20 +1,20 @@
 # Canal Telegram
 
-Els canals de Telegram permeten trametre missatges a un nombre il·limitat de subscriptors. Hi ha canals públics i privats. Els públics tenen un àlies, és a dir, un nom que permet a qualsevol persona buscar-los al cercador i unir-s'hi sense haver de conèixer cap número de telèfon. El canal de gencat és un canal públic. Els ciutadans que s'hi vulguin subscriure poden fer-ho a través de l'àlies del canal (en aquest cas @gencat) o bé a través d'una adreça web, per exemple [http://telegram.me/gencat](http://telegram.me/gencat)
+Els canals de Telegram permeten trametre missatges a un nombre il·limitat de subscriptors. Hi ha canals públics i canals privats. Els públics tenen un àlies, és a dir, un nom que permet a qualsevol persona buscar-los al cercador i unir-s'hi sense haver de conèixer cap número de telèfon. El canal de gencat és un canal públic. Els ciutadans que s'hi vulguin subscriure poden fer-ho a través de l'àlies del canal (en aquest cas @gencat) o bé a través d'una adreça web, per exemple [http://telegram.me/gencat](http://telegram.me/gencat)
 
 ## Gestió del canal 
 <a id=gestio></a>
 
 El creador d'un canal té la capacitat de difondre els missatges, que també pot editar i eliminar (les modificacions s'aplicaran a tots els usuaris), així com de gestionar-ne els membres: pot afegir els primers 200, expulsar-los i també afegir o eliminar els administradors que poden gestionar-lo. En relació amb la configuració del canal, també se'n pot editar l'àlies, la imatge del perfil i l'enllaç. Els administradors tenen drets limitats: poden difondre missatges, treure els seus propis missatges o treure qualsevol membre.
 
-Els missatges apareixen signats amb el nom que té el propi canal, no amb el de l'administrador. De fet, hi pot haver diversos administradors però la signatura sempre és la mateixa. Quan escrius en un canal, el missatge es publica amb el nom del canal i la foto del mateix, no amb les teves dades.
+Els missatges apareixen signats amb el nom que té el mateix canal, no amb el de l'administrador. De fet, hi pot haver diversos administradors però la signatura sempre és la mateixa. Quan escrius en un canal, el missatge es publica amb el nom del canal i la seva foto, no amb les teves dades.
 
-Es poden editar i fer correccions dels continguts durant 24h encara que ja s'hagin enviat i, fins i tot, es poden esborrar missatges si convé millorar-los.
+Es poden editar i fer correccions dels continguts durant 24 hores encara que ja s'hagin enviat i, fins i tot, es poden esborrar missatges si convé millorar-los.
 
 ## Quin tipus de continguts s'ofereixen?
 <a id=continguts></a>
 
-Al canal gencat de Telegram es publica informació de servei generalista, és a dir, d'interès ciutadà i multidisciplinari. S'escullen continguts que provenen de tots els departaments de la Generalitat tenint en compte, que siguin d'alt valor per a la ciutadania. Alguns exemples de continguts que es publiquen són: posada en marxa de nous serveis i equipaments, beques i ajuts, notícies destacades del web gencat, concursos, comunicació de terminis o dates clau etc.
+Al canal gencat de Telegram es publica informació de servei generalista, és a dir, d'interès ciutadà i multidisciplinari. S'escullen continguts que provenen de tots els departaments de la Generalitat tenint en compte  que siguin d'alt valor per a la ciutadania. Alguns exemples de continguts que es publiquen són: posada en marxa de nous serveis i equipaments, beques i ajuts, notícies destacades del web gencat, concursos, comunicació de terminis o dates clau, etc.
 També esdevé una eina per fer-se ressò de campanyes de prevenció i conscienciació que posa en marxa la Generalitat en matèries com la salut, el medi ambient, el trànsit, o les tecnologies, entre d'altres.
 
 ![Exemple canal Telegram](/img/guia_telegram_prevencio1_pell.png)
@@ -50,7 +50,9 @@ Les imatges seleccionades no poden ser de:
 
 El llançament de missatges es planifica tenint en compte l'actualitat i sempre procurant que s'hi ofereixin continguts de servei. Es treballa amb una graella a una setmana vista. En aquesta planificació hi participen les persones que gestionen el canal.  
 
-Les fonts d'informació per a l'elaboració dels missatges provenen de l'entorn corporatiu gencat (notícies, notes de premsa, butlletins, blogs, webs especials) però també de l'escolta activa de les xarxes socials. D'altra banda, internament també es fa periòdicament difusió del canal entre els diversos departaments i unitats perquè puguin suggerir continguts de publicació, que es recullen a la bústia [redacciogencat@gencat.cat](mailto:redacciogencat@gencat.cat).  Les persones responsables de la gestió del canal són les encarregades de validar i publicar els continguts si ho troben adient.
+Les fonts d'informació per a l'elaboració dels missatges provenen de l'entorn corporatiu gencat (notícies, notes de premsa, butlletins, blogs, webs especials) però també de l'escolta activa de les xarxes socials. D'altra banda, internament també es fa periòdicament difusió del canal entre els diversos departaments i unitats perquè puguin suggerir continguts de publicació, que es recullen a la bústia [redacciogencat@gencat.cat](mailto:redacciogencat@gencat.cat).  
+
+Les persones responsables de la gestió del canal són les encarregades de validar i publicar els continguts si ho troben adient.
 
 També es treballa amb un arxiu de continguts atemporals, que es revisa setmanalment, per publicar quan el ritme de l'actualitat baixa.
 
@@ -64,12 +66,12 @@ Per a una presència òptima hi ha d'haver activitat de manera continuada sense 
 ## Tipologia de missatges
 <a id=missatges></a>
 
-1. Estil peu de foto. Té un límit de caràcters. Si el peu només conté text està limitat a 200 caràcters. Cal adjuntar la imatge amb el botó 'Photo'. Si es volen posar icones, s'ha de copiar el text amb les icones inserides prèviament. Els enllaços es poden clicar, però no es mostra la previsualització de la imatge del web.
+1. Estil peu de foto. Té un límit de caràcters. Si el peu només conté text està limitat a 200 caràcters. Cal adjuntar la imatge amb el botó 'Photo'. Si es volen posar icones, s'ha de copiar el text amb les icones inserides prèviament. Els enllaços es poden clicar, però no es mostra la previsualització de la imatge del web.  
 ![Exemple canal Telegram](/img/guia_telegram_tipus_missatges_1.png)
 
-2. Estil text, que pot contenir diversos enllaços. No té límit de caràcters. L'enllaç principal, de referència, cal que aparegui el primer perquè es mostri la previsualització de la imatge del web a sota del bloc del text. Els altres enllaços es podran clicar, però no se'n visualitzaran les imatges. Si es fan salts de línia, els enllaços inclouran la visualització a sobre del bloc de text. També s'hi poden afegir les icones. Aquest recurs es pot utilitzar quan s'envien missatges, per exemple, sobre tràmits, en què la imatge és secundària.
+2. Estil text, que pot contenir diversos enllaços. No té límit de caràcters. L'enllaç principal, de referència, cal que aparegui el primer perquè es mostri la previsualització de la imatge del web a sota del bloc del text. Els altres enllaços es podran clicar, però no se'n visualitzaran les imatges. Si es fan salts de línia, els enllaços inclouran la visualització a sobre del bloc de text. També s'hi poden afegir les icones. Aquest recurs es pot utilitzar quan s'envien missatges, per exemple, sobre tràmits, en què la imatge és secundària.  
 ![Exemple canal Telegram](/img/guia_telegram_tipus_missatges_2.png)
 
-3. Estil imatge o arxiu (d'àudio o vídeo). Pot acompanyar a un missatge d'estil text. Cal adjuntar la imatge o l'arxiu amb el botó 'File'. Si està justificat es pot invertir l'ordre i enviar primer la imatge.
+3. Estil imatge o arxiu (d'àudio o vídeo). Pot acompanyar a un missatge d'estil text. Cal adjuntar la imatge o l'arxiu amb el botó 'File'. Si està justificat es pot invertir l'ordre i enviar primer la imatge.  
 ![Exemple canal Telegram](/img/guia_telegram_tipus_missatg.png)
 
