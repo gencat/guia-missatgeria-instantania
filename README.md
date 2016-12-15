@@ -1,6 +1,6 @@
-Guia missatgeria instantània Generalitat de Catalunya
+Guia missatgeria instantània de la Generalitat de Catalunya
 ---
-La [Guia missatgeria instantània Generalitat de Catalunya](https://github.com/gencat/guia-missatgeria-instantania) estableix unes pautes comunes per a la presència homogènia dels canals oficials en aquests espais.
+La [Guia missatgeria instantània de la Generalitat de Catalunya](https://github.com/gencat/guia-missatgeria-instantania) estableix unes pautes comunes per a la presència homogènia dels canals oficials en aquests espais.
 
 ## Telegram
 1. [Enfocament estratègic](estrategia.md)
