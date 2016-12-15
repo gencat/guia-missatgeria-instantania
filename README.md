@@ -1,20 +1,23 @@
-# Guia missatgeria instantània Generalitat de Catalunya
+Guia missatgeria instantània Generalitat de Catalunya
+---
+La [Guia missatgeria instantània Generalitat de Catalunya](https://github.com/gencat/guia-missatgeria-instantania) estableix unes pautes comunes per a la presència homogènia dels canals oficials en aquests espais.
 
 ## Telegram
-* [Enfocament estratègic](estrategia.md)
-* [Canal de Telegram](canal.md)
-	* [Gestió del canal](canal.md#gestio)
-	* [Quin tipus de continguts s'ofereixen?](canal.md#continguts)
-	* [Editorialització de continguts](canal.md#editorialitzacio)
-	* [Periodicitat de publicació](canal.md#periodicitat)
-	* [Tipologia de missatges](canal.md#missatges)
-* [Servei d'atenció ciutadana Telegram 012](xat.md)
-* [Bot Telegram](bot.md)
+1. [Enfocament estratègic](estrategia.md)
+2. [Canal de Telegram](canal.md)
+3. [Servei d'atenció ciutadana Telegram 012](xat.md)
+4. [Bot Telegram](bot.md)
+ 
+
+## Contribueix
+Tens alguna suggerència o vols que parlem sobre la guia? Siusplau crear un *issue* a Github. 
+ 
+https://github.com/gencat/guia-missatgeria-instantania/issues
 
 
-[Subscriu-te a Telegram](http://telegram.me/gencat)  
-[Segueix-nos a Twitter](http://twitter.com/gencat)  
-[Contribueix amb la guia](https://github.com/gencat/guia-missatgeria-instantania)  
+## Edicions
+1a edició: octubre 2016 [pdf](/assets/pdf/v01_guia_missatgeria_cat.pdf)
 
 ## Avís legal
-La ©Generalitat de Catalunya permet la reutilització dels continguts i de les dades sempre que se citi la font i la data d'actualització, que no es desnaturalitzi la informació i que no es contradigui amb una llicència específica.
+La [Generalitat de Catalunya](http://web.gencat.cat/ca/menu-ajuda/ajuda/avis_legal/) permet la reutilització dels continguts i de les dades sempre que se citi la font i la data d'actualització, que no es desnaturalitzi la informació i que no es contradigui amb una llicència específica.
+

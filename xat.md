@@ -10,7 +10,7 @@ El criteri general d'atenció d'aquest servei de missatgeria és l'equivalent al
 
 El tipus de respostes que es faciliten són molt funcionals, senzilles, curtes i ajustades a les peticions. Tot i així, quan es consideri oportú, es pot afegir informació complementària. Aquest canal no necessita fórmules de presentació ni de comiat.
 
-![Exemple d'una consulta sobre beques universitàries feta al servei 012 de Telegram](/img/atencio_ciutadana_012.png)
+![Exemple d'una consulta sobre beques universitàries feta al servei 012 de Telegram](/assets/img/atencio_ciutadana_012.png)
 
 L'atenció ciutadana a través d'aquests nous canals relacionals fomenten una interacció més omnicanal, directa i empàtica amb el ciutadà i des del punt de vista de l'organització, permeten entendre millor l'usuari, conèixer-ne les preferències i preveure'n les necessitats.
 
