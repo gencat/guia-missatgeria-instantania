@@ -1,6 +1,6 @@
 # Canal Telegram
 
-Els canals de Telegram permeten trametre missatges a un nombre il·limitat de subscriptors. Hi ha canals públics i canals privats. Els públics tenen un àlies, és a dir, un nom que permet a qualsevol persona buscar-los al cercador i unir-s'hi sense haver de conèixer cap número de telèfon. El canal de gencat és un canal públic. Els ciutadans que s'hi vulguin subscriure poden fer-ho a través de l'àlies del canal (en aquest cas @gencat) o bé a través d'una adreça web, per exemple [http://telegram.me/gencat](http://telegram.me/gencat)
+Els canals de Telegram permeten trametre missatges a un nombre il·limitat de subscriptors. Hi ha canals públics i canals privats. Els públics tenen un àlies, és a dir, un nom que permet a qualsevol persona buscar-los al cercador i unir-s'hi sense haver de conèixer cap número de telèfon. El canal de gencat és un canal públic. Els ciutadans que s'hi vulguin subscriure poden fer-ho a través de l'àlies del canal (en aquest cas @gencat) o bé a través d'una adreça web, per exemple [http://t.me/gencat](http://t.me/gencat)
 
 ## Gestió del canal 
 

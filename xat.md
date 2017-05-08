@@ -4,7 +4,7 @@
 
 El febrer de 2015 va néixer el servei d'atenció ciutadana del 012 a través de missatgeria instantània. El servei d'atenció per Telegram és gratuït i funciona com a complement de l'atenció telefònica del 012. De fet, va ser la primera experiència internacional en missatgeria instantània per a un servei de les característiques del 012.
 
-El servei de consultes destaca perquè és immediat, gratuït i molt senzill d'utilitzar. El telèfon per contactar-hi és el 681 012 012 o bé introduint l'àlies **gencat012** al cercador de l'aplicació mateixa. Si s'utilitza el navegador, cal escriure la URL [http://telegram.me/gencat012](http://telegram.me/gencat012). El servei disposa d'un sistema de respostes automàtiques amb detecció de quatre idiomes: català, castellà, anglès i francès.
+El servei de consultes destaca perquè és immediat, gratuït i molt senzill d'utilitzar. El telèfon per contactar-hi és el 681 012 012 o bé introduint l'àlies **gencat012** al cercador de l'aplicació mateixa. Si s'utilitza el navegador, cal escriure la URL [http://t.me/gencat012](http://t.me/gencat012). El servei disposa d'un sistema de respostes automàtiques amb detecció de quatre idiomes: català, castellà, anglès i francès.
 
 El criteri general d'atenció d'aquest servei de missatgeria és l'equivalent al del telèfon 012, intentant que sigui igual de resolutiu, sempre que la informació sol·licitada es pugui donar per aquest canal, segons la complexitat de la resposta i la seguretat de les dades personals.
 
